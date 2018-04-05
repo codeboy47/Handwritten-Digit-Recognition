@@ -13,17 +13,19 @@ The training data set, (train.csv), has 785 columns. The first column, called "l
 ## Details :
 I implemented my own K-nearest-neighbors algorithm to check if digit matches with the image.
 
-
 <img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/HandwrittenDigit.png" />
-
-<img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/Accuracy.png" />
-
-###Result : 
-Predicted digit matches with the digit shown in image.
 
 <br>
 
-## Accuracy
+## Result : 
+<img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/Accuracy.png" />
+
+
+As we see predicted digit matches with the digit shown in the image.
+
+<br>
+
+## Accuracy :
 
 | Algorithm | Accuracy |
 | --- | --- |
