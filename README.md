@@ -16,9 +16,10 @@ I implemented my own K-nearest-neighbors algorithm to check if digit matches wit
 
 <img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/HandwrittenDigit.png" />
 
-<img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/accuracy.png" />
+<img  src = "https://github.com/codeboy47/Handwritten-Digit-Recognition/blob/master/Images/Accuracy.png" />
 
-Our predicted number matches with the image.
+###Result : 
+Predicted digit matches with the digit shown in image.
 
 <br>
 
